@@ -1,0 +1,5 @@
+Insight page --- show users activities by month
+visual page --- show entries by months, savings vs spendings
+budget fields --- have users set a budget per months and have system track it with warnings
+
+IF POSSIBLE --- link to 3rd party app
