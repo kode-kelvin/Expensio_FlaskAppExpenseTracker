@@ -12,3 +12,4 @@ User can see all their spending, and credits in Chart format
 User can select and see transactions based on their select
 User can see more information graphically
 The app can remember user's login details
+<img width="1435" alt="Screenshot 2021-12-12 at 2 37 37 p m" src="https://user-images.githubusercontent.com/51726237/145717319-9fd96223-edc5-4ec2-927e-b83de44fb3a8.png">
